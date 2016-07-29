@@ -1,0 +1,17 @@
+body {
+	margin-top: 20px;
+  padding-top: 20px;
+  font-family: Helvetica, sans-serif;
+}
+
+.container{
+  background-color: green;
+	width: 1000px;
+	height: 500px;
+}
+
+.red {
+  background-color: red;
+	width: 1000px;
+	height: 500px;
+}
